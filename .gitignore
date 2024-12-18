@@ -1,4 +1,4 @@
 /node_modules
 /uploads
 /serviceAccountKey.json
-.vercel
+/.vercel
